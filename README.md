@@ -19,8 +19,8 @@ Desenvolvimento de uma ferramenta de monitoramento interativa utilizando apenas 
 * **O que fiz:** * Organização de assets e base de dados bruta.
     * Criação de tabelas dinâmicas e cálculos de métricas (Planilha de Cálculos).
     * Definição de perguntas de negócio e resposta visual através de um Dashboard interativo.
-* **Preview:** ![Print do Dashboard Xbox](<img width="1092" height="595" alt="image" src="https://github.com/user-attachments/assets/81d01d98-f82b-44c2-8a8b-6008f5f204da" />
-)
+* **Preview:** <img width="1092" height="595" alt="image" src="https://github.com/user-attachments/assets/81d01d98-f82b-44c2-8a8b-6008f5f204da" />
+
 
 ### 3. Relatório de Vendas: Business Intelligence 📈
 Dashboard desenvolvido no Power BI para análise de performance comercial.
@@ -28,8 +28,8 @@ Dashboard desenvolvido no Power BI para análise de performance comercial.
     * Criação de medidas com linguagem **DAX**.
     * Design focado em Storytelling de dados.
 * **Tecnologias:** Power BI, Power Query, DAX.
-* **Preview:** ![Print do Dashboard Power BI](<img width="1346" height="745" alt="image" src="https://github.com/user-attachments/assets/c6f0c477-6b40-44d3-b2f2-0a299f9cebf6" />
-)
+* **Preview:** <img width="1346" height="745" alt="image" src="https://github.com/user-attachments/assets/c6f0c477-6b40-44d3-b2f2-0a299f9cebf6" />
+
 
 ---
 
