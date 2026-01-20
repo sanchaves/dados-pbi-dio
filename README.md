@@ -1,4 +1,4 @@
-# 📊 Data Portfolio | [Alessandra Chaves Vedoy]
+# 📊 Data Portfolio | Alessandra Chaves Vedoy
 
 Bem-vindo(a) ao meu repositório de projetos de Análise de Dados. Aqui você encontrará soluções que envolvem desde a estruturação de bancos de dados relacionais até a criação de dashboards estratégicos para tomada de decisão.
 
@@ -12,7 +12,7 @@ Estruturação completa de um banco de dados para um ecossistema de e-commerce, 
     * Popular o banco com dados de teste (Inserts).
     * Desenvolvimento de queries complexas para responder perguntas de negócio (Faturamento por período, clientes mais ativos, etc).
 * **Tecnologias:** MySQL / Mysql Workbench
-* [📂 Ver arquivos SQL](./caminho-da-sua-pasta-sql)
+* [📂 Ver arquivos SQL](./01_SQL_Ecommerce)
 
 ### 2. Dashboard Xbox: Análise em Excel 🎮
 Desenvolvimento de uma ferramenta de monitoramento interativa utilizando apenas Excel.
@@ -41,5 +41,4 @@ Dashboard desenvolvido no Power BI para análise de performance comercial.
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-[![Seu E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://www.linkedin.com/in/alessandra-chaves-vedoy-027952183/)
